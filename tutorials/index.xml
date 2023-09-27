@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorials on labSI</title>
+    <link>https://pmr3304.e.usp.br/labSI_10773530/tutorials/</link>
+    <description>Recent content in Tutorials on labSI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Sep 2023 17:36:51 -0300</lastBuildDate><atom:link href="https://pmr3304.e.usp.br/labSI_10773530/tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flask</title>
+      <link>https://pmr3304.e.usp.br/labSI_10773530/tutorials/flask/</link>
+      <pubDate>Tue, 26 Sep 2023 17:36:51 -0300</pubDate>
+      
+      <guid>https://pmr3304.e.usp.br/labSI_10773530/tutorials/flask/</guid>
+      <description>Aprenda Flask em apenas quatro passos!
+Step one Step two ???? PROFIT!!! </description>
+    </item>
+    
+    <item>
+      <title>Django</title>
+      <link>https://pmr3304.e.usp.br/labSI_10773530/tutorials/django/</link>
+      <pubDate>Tue, 26 Sep 2023 17:36:45 -0300</pubDate>
+      
+      <guid>https://pmr3304.e.usp.br/labSI_10773530/tutorials/django/</guid>
+      <description>Aprenda Django em apenas quatro passos!
+Step one Step two ???? PROFIT!!! </description>
+    </item>
+    
+  </channel>
+</rss>
