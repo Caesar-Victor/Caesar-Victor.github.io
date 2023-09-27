@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>labSI</title>
-    <link>https://pmr3304.e.usp.br/labSI_10773530/</link>
+    <link>https://caesar-victor.github.io/</link>
     <description>Recent content on labSI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 Sep 2023 17:36:51 -0300</lastBuildDate><atom:link href="https://pmr3304.e.usp.br/labSI_10773530/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Sep 2023 17:36:51 -0300</lastBuildDate><atom:link href="https://caesar-victor.github.io/" rel="self" type="application/rss+xml" />
     <item>
       <title>Flask</title>
-      <link>https://pmr3304.e.usp.br/labSI_10773530/tutorials/flask/</link>
+      <link>https://caesar-victor.github.io/tutorials/flask/</link>
       <pubDate>Tue, 26 Sep 2023 17:36:51 -0300</pubDate>
       
-      <guid>https://pmr3304.e.usp.br/labSI_10773530/tutorials/flask/</guid>
+      <guid>https://caesar-victor.github.io/tutorials/flask/</guid>
       <description>Aprenda Flask em apenas quatro passos!
 Step one Step two ???? PROFIT!!! </description>
     </item>
     
     <item>
       <title>Django</title>
-      <link>https://pmr3304.e.usp.br/labSI_10773530/tutorials/django/</link>
+      <link>https://caesar-victor.github.io/tutorials/django/</link>
       <pubDate>Tue, 26 Sep 2023 17:36:45 -0300</pubDate>
       
-      <guid>https://pmr3304.e.usp.br/labSI_10773530/tutorials/django/</guid>
+      <guid>https://caesar-victor.github.io/tutorials/django/</guid>
       <description>Aprenda Django em apenas quatro passos!
 Step one Step two ???? PROFIT!!! </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://pmr3304.e.usp.br/labSI_10773530/about/</link>
+      <link>https://caesar-victor.github.io/about/</link>
       <pubDate>Tue, 26 Sep 2023 17:14:45 -0300</pubDate>
       
-      <guid>https://pmr3304.e.usp.br/labSI_10773530/about/</guid>
+      <guid>https://caesar-victor.github.io/about/</guid>
       <description>Esta página contém informações sobre minha humilde pessoa.</description>
     </item>
     
